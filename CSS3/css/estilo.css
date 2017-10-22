@@ -1,0 +1,13 @@
+#box{
+    width: 400px;
+    height: 400px;
+    margin: 50px auto;
+    padding: 8px;
+    background: #009670;
+}
+
+#box h1{
+    color: white;
+    font-size: 60px;
+    text-shadow: 10px 10px black;
+}
