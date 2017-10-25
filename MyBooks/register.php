@@ -33,7 +33,7 @@
                 </button>
 
                 <ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect" for="menu-right">
-                    <li id="register-button" class="mdl-menu__item">Sair</li>
+                    <li id="register-button" class="mdl-menu__item">Cadastrar</li>
                 </ul>
             </div>
         </header>
