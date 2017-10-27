@@ -4,7 +4,50 @@
     margin-top: 30px;
 }
 
+.home-main{
+    width: 100%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.register-main{
+    width: auto;
+    margin: auto;
+    margin-top: 30px;
+}
+
 .button-login{
     margin-left: 20%;
     width: 55%;
+}
+
+.card-wide.mdl-card {
+  width: 70%;
+}
+
+.card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background: url('images/welcome_card.jpg') center / cover;
+}
+
+.card-wide > .mdl-card__menu {
+  color: #fff;
+}
+
+#add-book{
+    position: fixed;
+    bottom: 1rem;
+    right: 3rem;
+}
+
+#register-user-button{
+    position: fixed;
+    bottom: 1rem;
+    right: 3rem;
+}
+
+a{
+    color: white;
+    text-decoration: none;
 }
