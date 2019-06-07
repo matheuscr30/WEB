@@ -1,6 +1,6 @@
 # WEB
 
-:books:&nbsp;Studies about HTML5, CSS3, Javascript, Jquery, PHP, Ajax, Bootstrap, PWA 
+:books: &nbsp; Studies about HTML5, CSS3, Javascript, Jquery, PHP, Ajax, Bootstrap, PWA 
 
 ## Authors
 
